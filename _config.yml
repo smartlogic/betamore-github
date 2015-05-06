@@ -1,0 +1,13 @@
+# Site settings
+title: Learning Git and Github
+email: eric@smartlogic.io
+description: > # this means to ignore newlines until "baseurl:"
+  This workshop will help familiarize you with these tools for sharing and revising projects online.
+
+baseurl: "/betamore-github"
+url: "http://oestrich.github.io"
+twitter_username: ericoestrich
+github_username:  oestrich
+
+# Build settings
+markdown: kramdown
