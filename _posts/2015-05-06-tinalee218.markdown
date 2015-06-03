@@ -7,6 +7,4 @@ title: Tina Lee
 hello world! 
 second time world! 
 
-
-herro world!
-second time word! 
+nope
