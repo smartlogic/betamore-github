@@ -1,0 +1,6 @@
+---
+layout: post
+title: "Hello, It's Brittles"
+---
+
+What's up!  Welcome to Getting Up With Git.
