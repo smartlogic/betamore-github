@@ -26,6 +26,9 @@ Completion of online Git tutorial (should know how to clone and commit)
 ## What to Bring
 
 Laptop with Git installed
+A faster Brain
+Attention to Detail
+A new change
 
 ## Skills Taught
 
